@@ -21,5 +21,6 @@ public class fromGitToEclipse {
  * - delete Beginner project
  * - create new java project
  * - copy the location of Beginner folder in Local Repository folder
+ * - Beginner project + Team + Commit
  * - Git Repository in Local + master + Push to Branch
  */
