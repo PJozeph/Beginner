@@ -2,7 +2,8 @@ package Theory;
 
 public class JavaTerminologySyntax {
 	public static void main(String args []) {
-		
+		System.out.println("Hello BangKindo! :)");
+		System.out.println("Hello Banana! :) ");
 	}
 
 }

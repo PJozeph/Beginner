@@ -42,9 +42,9 @@ public class FiveNumberSum {
 * System.out.print("The sum is ");
 * System.out.println(sum);
 * 
-* Line 13 prints a descriptive string. 
+* Line 16 prints a descriptive string. 
 * A String is surrounded by double quotes, and will be printed as it is (but without the double quotes). 
-* Line 14 prints the value stored in the variable sum (in this case, the sum of the five numbers). 
+* Line 17 prints the value stored in the variable sum (in this case, the sum of the five numbers). 
 * You should not surround a variable to be printed by double quotes; otherwise, 
 * the text will get printed instead of the value stored in the variable.
 */
