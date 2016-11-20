@@ -3,16 +3,14 @@ package beginner;
 public class FiveNumberProduct {
 	public static void main(String args []) {
 		
-		int number1 = 5;
-		int number2 = 10;
-		int number3 = 1983;
-		int number4 = 31;
-		int number5 = 32;
+		int one []={ 5,10,1983,31,32};
+		int sum= 0;
 		int product;
-		product = number1 * number2* number3* number4* number5;
+		for ( counter = 0; counter<one.length;counter++){
+		sum*=one[counter]};
 		
 		System.out.print("Product of numbers is ");
-		System.out.println(product);
+		System.out.println(sum);
 	}
 
 }
